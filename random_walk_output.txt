@@ -1,0 +1,4 @@
+Random Walk Path:
+detailed -> report -> and -> shared -> the -> data -> so -> the -> data
+
+Status: Stopped (Repeated edge: the->data)

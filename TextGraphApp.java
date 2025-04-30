@@ -1096,6 +1096,8 @@ public class TextGraphApp extends JFrame {
                 totalChange += Math.abs(newRank - pageRankScores.get(nodeP)); // Accumulate the change
             }
 
+       //你好     
+       //我不好
             // --- Step 3: Update PageRank scores and check for convergence ---
             pageRankScores.putAll(newRankScores); // Update all scores for the next iteration
             delta = totalChange; // Use the total absolute change as the convergence metric
